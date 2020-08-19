@@ -67,7 +67,7 @@ const contentDictionary = {
     "Metroidvania",
     "Text-Based",
     "Visual Novel",
-    "Rouguelike",
+    "Roguelike",
     "Sandbox",
     "Tower Defense",
     "Battle Arena",
