@@ -10,6 +10,7 @@
     }
   },
   "dependencies": {
+    "@bit/dev-launchers.dev-launchers-platform.models": "^0.0.1",
     "@cloudflare/wrangler": "^1.11.0",
     "articles": "^0.2.2",
     "axios": "0.21.0",
